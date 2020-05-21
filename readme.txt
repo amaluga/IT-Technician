@@ -1,4 +1,4 @@
-1. Nie mialem mozliwosci rozpakowac paczki pliki3.zip, gdyz na stanowisku egzaminacyjnym nie bylo konta Egzamin z wymaganym plikiem.
+1. Brak plikow - nie mialem mozliwosci rozpakowac paczki pliki3.zip, gdyz na stanowisku egzaminacyjnym nie bylo konta Egzamin.
 
 2. Wykonalem caly kod zgodnie z wymogami zadania (zostaje tylko podpiac wlasciwe zdjecia i baze danych)
 
